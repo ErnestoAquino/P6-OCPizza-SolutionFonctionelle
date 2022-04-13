@@ -1,7 +1,7 @@
 # P6-OCPizza-SolutionFonctionelle
 
-##Scénario
-Vous travaillez chez ** « IT Consulting & Development » **. C’est une petite entreprise d’une vingtaine d’employés capable de mener des projets informatiques de développement logiciel/mobile/web. Vous êtes un développeur d'application junior et, récemment, vous vous êtes également outillé pour mener l’analyse des besoins client lors des lancements de projets. Justement, ce matin, vous prenez votre courage à deux mains et vous en discutez avec Alexandra, votre responsable :
+## Scénario
+Vous travaillez chez **« IT Consulting & Development »**. C’est une petite entreprise d’une vingtaine d’employés capable de mener des projets informatiques de développement logiciel/mobile/web. Vous êtes un développeur d'application junior et, récemment, vous vous êtes également outillé pour mener l’analyse des besoins client lors des lancements de projets. Justement, ce matin, vous prenez votre courage à deux mains et vous en discutez avec Alexandra, votre responsable :
 
 >C'est l’occasion de me confier de nouveaux projets, tu ne crois pas ? Je voudrais mettre en pratique ce que j’ai appris !
 
